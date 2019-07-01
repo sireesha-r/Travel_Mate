@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270858461376",
+    "firebase_url": "https://travelmate-64c7f.firebaseio.com",
+    "project_id": "travelmate-64c7f",
+    "storage_bucket": "travelmate-64c7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270858461376:android:316cfca2bfdb750f",
+        "android_client_info": {
+          "package_name": "com.example.dell.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270858461376-5fpv58rtrpp7ga9075vglddpiccvkffm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.myapp",
+            "certificate_hash": "bca491b85cefb2aa6df3e0d665a2166897a797d3"
+          }
+        },
+        {
+          "client_id": "270858461376-p39aorotpo09nnjich70b4it42c6k479.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRMcRQVKI4AnTmBn8VUWYWG0AJXjn8jc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270858461376-p39aorotpo09nnjich70b4it42c6k479.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
